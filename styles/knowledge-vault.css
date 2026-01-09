@@ -102,57 +102,57 @@ nav .btn {
 }
 
 .note-container {
-    width: 85%;
-    max-width: 1360px;
-    text-align: center;
-    margin: 0 auto;
+  width: 85%;
+  max-width: 1360px;
+  text-align: center;
+  margin: 0 auto;
 }
 
 .note-content h2 {
-    padding-top: 60px;
-    font-size: 50px;
-    margin-bottom: 12px;
+  padding-top: 60px;
+  font-size: 50px;
+  margin-bottom: 12px;
 }
 
 .note-content p {
-    font-size: 16px;
-    line-height: 20px;
-    color: rgba(0, 0, 0, 0.705);
-    margin-top : 8px;
+  font-size: 16px;
+  line-height: 20px;
+  color: rgba(0, 0, 0, 0.705);
+  margin-top: 8px;
 }
 
 .card-box {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    gap: 24px;
-    margin: 40px 0;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 24px;
+  margin: 40px 0;
 }
 
 .card {
-    max-width: 330px;
-    height: 300px;
-    padding: 60px 24px;
-    box-shadow: 0 0 8px 0 #00000035;
-    border-radius: 5px;
+  max-width: 330px;
+  height: 300px;
+  padding: 60px 24px;
+  box-shadow: 0 0 8px 0 #00000035;
+  border-radius: 5px;
 }
 
 .card img {
-    background-color: #469165;
-    padding: 12px;
-    border-radius: 100%;
+  background-color: #469165;
+  padding: 12px;
+  border-radius: 100%;
 }
 
 .card h4 {
-    font-size: 24px;
-    font-weight: 600;
-    margin: 10px 0;
+  font-size: 24px;
+  font-weight: 600;
+  margin: 10px 0;
 }
 
 .card p {
-    font-size: 15px;
-    line-height: 20px;
-    color: rgba(0, 0, 0, 0.705);
+  font-size: 15px;
+  line-height: 20px;
+  color: rgba(0, 0, 0, 0.705);
 }
 
 #second-brain {
@@ -170,11 +170,11 @@ nav .btn {
 }
 
 .brain-image img {
-  max-width: 550px;
+  max-width: 500px;
 }
 
 .brain-content h4 {
-  font-size: 16px;
+  font-size: 18px;
   color: #49b074;
   font-weight: 500;
 }
