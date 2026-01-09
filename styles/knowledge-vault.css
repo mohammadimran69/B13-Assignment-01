@@ -206,3 +206,36 @@ nav .btn {
   font-weight: 500;
   margin-bottom: 10px;
 }
+
+#access-section {
+  margin-bottom: 100px;
+}
+
+.access-container {
+  width: 85%;
+  max-width: 1360px;
+  margin: 0 auto;
+  padding: 80px;
+  text-align: center;
+  background-color: rgba(245, 245, 220, 0.726);
+}
+
+.section-title {
+  font-size: 45px;
+  margin-bottom: 5px;
+}
+
+.section-info {
+  font-size: 16px;
+  line-height: 25px;
+  color: rgba(0, 0, 0, 0.705);
+  margin-bottom: 20px;
+}
+
+.more-info {
+  line-height: 20px;
+  margin-top: 20px;
+  color: rgba(0, 0, 0, 0.705);
+}
+
+
