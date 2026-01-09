@@ -107,10 +107,6 @@ nav .btn {
   margin-bottom: 30px;
 }
 
-
-
-
-
 #note-section {
   padding-top: 20px;
 }
@@ -149,6 +145,7 @@ nav .btn {
   padding: 60px 24px;
   box-shadow: 0 0 8px 0 #00000035;
   border-radius: 5px;
+  text-align: center;
 }
 
 .card img {
