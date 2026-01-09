@@ -101,6 +101,10 @@ nav .btn {
   cursor: pointer;
 }
 
+#note-section {
+  padding-top: 20px;
+}
+
 .note-container {
   width: 85%;
   max-width: 1360px;
@@ -156,7 +160,7 @@ nav .btn {
 }
 
 #second-brain {
-  padding: 100px 0;
+  padding: 80px 0;
 }
 
 .brain-container {
@@ -232,10 +236,60 @@ nav .btn {
   margin-bottom: 20px;
 }
 
+.banner-btn img {
+  vertical-align: bottom;
+}
+
 .more-info {
   line-height: 20px;
   margin-top: 20px;
   color: rgba(0, 0, 0, 0.705);
 }
 
+#footer {
+  background-color: #0f2854;
+}
 
+.footer-container {
+  width: 85%;
+  max-width: 1360px;
+  margin: 0 auto;
+  padding-top: 70px;
+  padding-bottom: 50px;
+  color: white;
+}
+
+.footer-box {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding-bottom: 50px;
+}
+
+hr {
+  border: .5px solid grey;
+}
+
+.footer-img {
+  max-width: 140px;
+}
+
+.social-links h4 {
+  font-size: 18px;
+  font-weight: 500;
+  margin-bottom: 5px;
+}
+
+.icons a {
+  max-width: 20px;
+  list-style-type: none;
+  color: white;
+  margin-right: 8px;
+}
+
+.copy-right-text p {
+  font-size: 14px;
+  text-align: center;
+  line-height: 20px;
+  margin: 16px 0;
+}
